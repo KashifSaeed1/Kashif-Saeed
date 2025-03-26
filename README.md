@@ -8,7 +8,7 @@ I'm a **MERN Stack Developer** passionate about building web applications and co
 - 🔭 I’m currently working on **MERN Stack projects**
 - 🌱 I’m learning **Next.js & TypeScript**
 - 💬 Ask me about **React, Node.js, MongoDB, Express.js**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **kashifsaeedman@gmail.com**
 
 ---
 
